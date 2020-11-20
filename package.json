@@ -9,14 +9,10 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "axios": "^0.21.0",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
-    "element-ui": "^2.14.1",
+    "express": "^4.17.1",
     "filepond": "^4.23.1",
-    "filepond-plugin-file-validate-type": "^1.2.5",
-    "filepond-plugin-image-preview": "^4.6.4",
-    "jquery": "^3.5.1",
     "jsonwebtoken": "^8.5.1",
     "multer": "^1.4.2",
     "nodemon": "^2.0.6",
@@ -26,9 +22,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "eslint": "^6.7.2"
   },
   "eslintConfig": {
     "root": true,
