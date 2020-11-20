@@ -6,7 +6,7 @@
     "node": "15.0.1"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
